@@ -1,8 +1,8 @@
 ### Olá! Sou Henrique Dourado Domingos. Bem-Vindo ao meu Pefil!
 
 - 🔭  Sou estudante pelo SENAI  
-- 🌱 Estudante de Desenvolvimento Web
-- 💬 Estudante da AWS Cloud
+- 🌱 Cursando Desenvolvimento de Sistemas
+- 💬 AWS Foundations
 - 📫 E-mail e Linkedin em meu perfil
 - ⚡ Futuro Data Science
 
