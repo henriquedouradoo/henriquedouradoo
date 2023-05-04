@@ -1,6 +1,6 @@
-### Olá! Sou Henrique Dourado Domingos. Bem-Vindo ao meu Pefil!
+### Olá! Sou Henrique Dourado Domingos. Bem-Vindo ao meu Perfil!
 
-- 🔭  Sou estudante pelo SENAI  
+- 🔭 Estudante SESI/SENAI 
 - 🌱 Cursando Desenvolvimento de Sistemas
 - 💬 AWS Foundations
 - 📫 E-mail e Linkedin em meu perfil
