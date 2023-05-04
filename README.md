@@ -23,3 +23,7 @@
   <a href="https://www.linkedin.com/in/henrique-dourado-domingos-8a105a267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
