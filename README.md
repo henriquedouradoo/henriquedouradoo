@@ -2,7 +2,7 @@
 
 - 🔭 Estudante SESI/SENAI 
 - 🌱 Cursando Desenvolvimento de Sistemas
-- 💬 AWS Foundations
+- 💬 AWS and Google CLoud
 - 📫 E-mail e Linkedin em meu perfil
 - ⚡ Futuro Data Science
 
