@@ -25,5 +25,7 @@
   
 </div>
 
+entre em contato:
+douradoprofissional@gmail.com 
 
 
