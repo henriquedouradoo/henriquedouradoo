@@ -1,10 +1,10 @@
 ### Olá! Sou Henrique Dourado Domingos. Bem-Vindo ao meu Perfil!
 
 - 🔭 Estudante SESI/SENAI 
-- 🌱 Cursando Desenvolvimento de Sistemas
+- 🌱 Cursando Desenvolvimento de Sistemas 
 - 💬 AWS and Google CLoud 
 - 📫 E-mail e Linkedin em meu perfil
-- ⚡ Futuro Data Science
+- ⚡ Full-Stack and Data Science
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
