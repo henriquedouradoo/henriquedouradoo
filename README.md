@@ -1,11 +1,11 @@
-### Olá! Sou Henrique Dourado Domingos. Bem-Vindo ao meu Perfil!
+Hello! I'm Henrique Dourado Domingos. Welcome to my Profile!
 
-- 🔭 Estudante SESI/SENAI 
-- 🌱 Cursando Desenvolvimento de Sistemas 
-- 💬 AWS and Google CLoud 
-- 📫 E-mail e Linkedin em meu perfil
+- 🔭 SESI/SENAI Student
+- 🌱 'Systems Development' Student
+- 💬 AWS and Google Cloud
+- 📫 Email and Linkedin on my profile
 - ⚡ Full-Stack and Data Science
-
+- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,7 +30,7 @@
   
 </div>
 
-entre em contato:
+contact:
 douradoprofissional@gmail.com 
 
 
