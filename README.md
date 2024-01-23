@@ -1,6 +1,6 @@
 Hello! I'm Henrique Dourado Domingos. Welcome to my Profile!
 
-- 🔭 SESI/SENAI Student
+- 🔭 SESI/SENAI Student 
 - 🌱 'Systems Development' Student
 - 💬 AWS and Google Cloud 
 - 📫 Email and Linkedin on my profile
