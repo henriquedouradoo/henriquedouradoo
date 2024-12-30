@@ -1,10 +1,10 @@
 Hello! I'm Henrique Dourado Domingos. Welcome to my Profile!
 
-- 🔭 SESI/SENAI Student 
-- 🌱 'Systems Development' Student
+- 🔭 Information Systems by Sao Paulo Tech School 
+- 🌱 Graduated in Systems Development
 - 💬 AWS and Google Cloud 
 - 📫 Email and Linkedin on my profile
-- ⚡ Full-Stack and Product Owner
+- ⚡ Software Developer and Product
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
