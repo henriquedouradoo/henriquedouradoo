@@ -21,7 +21,7 @@
 
 **Utilidades**
 
-![Apidog](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=apidog)
+![Apidog](https://img.shields.io/badge/-apidog-333333?style=flat&logo=apidog)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
