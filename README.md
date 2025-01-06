@@ -39,14 +39,9 @@
 
 <br/>
 
-<a href="https://github.com/henriquedouradoo" title="Perfil do Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquedouradoo&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henrique-dourado-domingos)](www.linkedin.com/in/henrique-dourado-domingos)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
  <a href = "mailto:douradoprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
