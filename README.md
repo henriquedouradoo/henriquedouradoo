@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas de Informação na São Paulo Tech School.
-- 🌱 Aprendendo mais sobre Java e Node Js.
+- 🌱 Aprendendo mais sobre Java e Metodologias Ágeis.
 
 ## Minhas Skills
 
