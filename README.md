@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Sistemas de Informação | São Paulo Tech School.
+- 🎓 Sistemas de Informação São Paulo Tech School.
 - 🌱 Aprendendo mais sobre Java e Metodologias Ágeis.
 
 ## Minhas Skills
