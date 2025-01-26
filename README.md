@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Sistemas de Informação - São Paulo Tech School.
-- 🌱 Aprendendo mais sobre Java e Metodologias Ágeis.
+- 🌱 Aprendendo mais sobre Java e Negócios.
 
 ## Minhas Skills
 
