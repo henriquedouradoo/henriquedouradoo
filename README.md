@@ -1,8 +1,7 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software  
 - 🎓 Sistemas de Informação - São Paulo Tech School  
-- 🌱 Aprendendo mais sobre **Java, Python, Dados e Negócios**
+- 🌱 Aprendendo mais sobre **Java, SQL, Python, Cloud, Docker e Negócios**
 
 ---
 
